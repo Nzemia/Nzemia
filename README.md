@@ -1,8 +1,9 @@
-- 👋  Hi, I'm Nzemia, a software developer with a passion for building web and mobile applications.
+- 👋 Hi, I'm Nzemia, a software developer with a passion for building applications.
 - 👀 I'm interested in exploring new technologies, solving complex problems, and creating user-friendly and efficient software solutions.
-- 🌱  I'm currently learning React Native, Next.js, Node.js, Express.js, and developing MERN stack projects. I enjoy diving deep into these frameworks and discovering best practices to build robust and scalable applications.
-- 💞️ I'm looking to collaborate on exciting projects that involve cutting-edge technologies and provide opportunities for growth and learning.
-- 📫 You can reach me through email at mualukofrank@gmail.com . I'm always open to connecting with fellow developers and discussing potential collaborations or interesting projects.
+- 🤖 I'm diving into machine learning, deep learning, and neural networks, constantly learning how to make systems smarter and more adaptive.
+- 🌱 I know React Native, Next.js, Node.js, and Express.js, and I can develop robust and scalable MERN stack projects.
+- 💞️ I'm looking to collaborate on exciting projects involving cutting-edge technologies and offering opportunities for growth and learning.
+- 📫 You can reach me at mualukofrank@gmail.com. I'm always open to connecting with fellow developers to discuss potential collaborations or interesting projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I love exploring the great outdoors, going on adventures, and playing chess.
 
